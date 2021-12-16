@@ -1,0 +1,10 @@
+C:\Users\Fabio\source\repos\Quadro de login\Quadro de login\bin\Debug\Quadro de login.exe.config
+C:\Users\Fabio\source\repos\Quadro de login\Quadro de login\bin\Debug\Quadro de login.exe
+C:\Users\Fabio\source\repos\Quadro de login\Quadro de login\bin\Debug\Quadro de login.pdb
+C:\Users\Fabio\source\repos\Quadro de login\Quadro de login\obj\Debug\Quadro de login.csproj.AssemblyReference.cache
+C:\Users\Fabio\source\repos\Quadro de login\Quadro de login\obj\Debug\Quadro_de_login.Form1.resources
+C:\Users\Fabio\source\repos\Quadro de login\Quadro de login\obj\Debug\Quadro_de_login.Properties.Resources.resources
+C:\Users\Fabio\source\repos\Quadro de login\Quadro de login\obj\Debug\Quadro de login.csproj.GenerateResource.cache
+C:\Users\Fabio\source\repos\Quadro de login\Quadro de login\obj\Debug\Quadro de login.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\source\repos\Quadro de login\Quadro de login\obj\Debug\Quadro de login.exe
+C:\Users\Fabio\source\repos\Quadro de login\Quadro de login\obj\Debug\Quadro de login.pdb
